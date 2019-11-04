@@ -1,0 +1,1 @@
+2019-10-28 20:39:21 Тип аргументов: <class 'argparse.Namespace'>, список аргументов: Namespace(One=3, Three=9, Two=10, log='logfile.txt', timestamp='2019-10-28 20:39:21')
