@@ -124,7 +124,7 @@ class Round():
             print(f"{self.match}, угадал {coincidence} символов")
             return False
         else:
-            print(n1[0], n2,"совсем дурак чёли?")
+            print("совсем дурак чёли?")
             return False
         # 1) сравнить
         # 2) выдать результат сравнения - print
